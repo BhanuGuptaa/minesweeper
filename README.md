@@ -1,5 +1,9 @@
 # minesweeper
 The objective of the game is to clear a rectangular board containing hidden "mines" or bombs without detonating any of them, with help from clues about the number of neighbouring mines in each field.  • It is single player puzzle video game 
+
+
+
+
 ![DEMO VideoOF APP](https://user-images.githubusercontent.com/83871515/193423131-c0268bab-9ada-4645-9c06-695393435040.gif)
 
 MAIN ACTIVITY LOOKS LIKE
